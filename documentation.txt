@@ -1,0 +1,13 @@
+projeto autenticação:
+
+paleta de cores: https://colorhunt.co/palette/252860
+
+dark mode
+
+autenticador transparente
+
+rede sociais (botoes)
+
+centralizar
+
+animação depois de autenticar
